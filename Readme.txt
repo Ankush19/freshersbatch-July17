@@ -1,2 +1,6 @@
-This folder is for assignments
+<<<<<<< HEAD
 Master changes
+=======
+HTML assgns changes
+More Changes
+>>>>>>> html-assgns
