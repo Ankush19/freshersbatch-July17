@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Master changes
-=======
-HTML assgns changes
-More Changes
->>>>>>> html-assgns
+Master line 1 
